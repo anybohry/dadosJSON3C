@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "camiseta banda",
+        "tamanho": "P - M - G - GG",
+        "preco": 139.99,
+        "imagem": "img/teste1.webp"
+    },
+    {
+        "nome": "camiseta banda",
+        "tamanho": "P - M - G - GG",
+        "preco": 79.99,
+        "imagem":"img/teste2.jpg"
+    },
+    {
+        "nome": "Jaqueta Couro",
+        "tamanho": "P - M - G - GG",
+        "preco": 299.99,
+        "imagem": "img/teste3.jpeg"
+    },
+    {
+        "nome": "Jaqueta Jeans preta",
+        "tamanho": "P - M - G - GG",
+        "preco": 199.99,
+        "imagem": "img/teste4.webp"
+    },
+    {
+        "nome": "Jaqueta Jeans clara",
+        "tamanho": "P - M - G - GG",
+        "preco": 199.99,
+        "imagem": "img/teste5.jpeg"
+    },
+    {
+        "nome": "Cuturno Al Black",
+        "tamanho": "38 - 39 - 40 - 41 - 42",
+        "preco": 239.99,
+        "imagem":"img/teste6.jpg"
+    }
+]
